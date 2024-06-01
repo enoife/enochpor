@@ -1,0 +1,102 @@
+.button{
+  background-color: white;
+  border: 1px solid rgb(240, 159, 159);
+  width: 80px;
+  border-radius: 5px;
+}
+.nav-link{
+  color: white !important;
+  align-items: center;
+}
+.heropage{
+  background-image: linear-gradient(to bottom right,rgb(231, 225, 225),black);
+  
+}
+.intor{
+  margin-top: 90px !important;
+  margin-left: 40px !important;
+}
+.name{
+  
+  color: rgb(76, 74, 74);
+}
+.brake{
+  /* margin-top: 20px !important; */
+  font-size: 40px;
+  color: rgb(254, 254, 254);
+}
+.dev{
+  color: rgb(76, 74, 74);
+  font-size: 60px;
+}
+.build{
+  font-size: 20px;
+}
+
+.icon{
+  background-color: rgb(53, 50, 50);
+  border-radius: 100px;
+  width: 30px;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  cursor: pointer;
+  margin-left: 2px;
+}
+.more_ofme{
+  background-color: gray;
+  box-shadow: 5px 10px 5px  gray;
+  
+}
+.yexp{
+  font-size: 30px;
+  color: white;
+}
+.years{
+  font-size: 15px;
+  color: black;
+}
+.about{
+  margin-top: 80px !important;
+  margin-left: 40px !important;
+}
+.aboutme{
+  color: gray;
+  text-shadow: 2px 2px 5px gray;
+}
+.about_me{
+  margin-top: 80px !important;
+}
+.about-me{
+  font-size: 20px;
+}
+.dowload_res{
+  background-color: gray;
+  border: 1px black;
+  border-radius: 5px;
+  color: white;
+  margin-bottom: 10px;
+}
+.skill{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px !important;
+  font-size: 40px;
+}
+.skills{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px !important;
+  font-size: 15px;
+}
+.project{
+  color: white;
+  margin-top: 30px;
+}
+.built{
+  color: gray;
+}
+/* .cardd{
+  margin-left: 10px;
+} */
