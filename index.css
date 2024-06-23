@@ -10,6 +10,8 @@
 }
 .heropage{
   background-image: linear-gradient(to bottom right,rgb(231, 225, 225),black);
+  position: relative ;
+  
   
 }
 .intor{
@@ -68,6 +70,7 @@
 }
 .about-me{
   font-size: 20px;
+  
 }
 .dowload_res{
   background-color: gray;
@@ -86,9 +89,9 @@
 .skills{
   align-items: center;
   justify-content: center;
-  text-align: center;
-  margin-top: 40px !important;
-  font-size: 15px;
+  text-align: left;
+  margin-top: 90px !important;
+  font-size: 20px;
 }
 .project{
   color: white;
@@ -100,3 +103,13 @@
 /* .cardd{
   margin-left: 10px;
 } */
+.myskills{
+  color: lightgoldenrodyellow;
+  text-shadow: 2px 2px 5px gray;
+}
+.get-logo a{
+  color: black;
+  font-size: 40px;
+  text-decoration: none;
+  margin-left: 50px;
+}
