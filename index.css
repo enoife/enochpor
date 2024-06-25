@@ -113,3 +113,26 @@
   text-decoration: none;
   margin-left: 50px;
 }
+
+.intr{
+  margin-top: 80px;
+  color: black;
+}
+
+.btn{
+  background-image: linear-gradient(to bottom right,gray,white);
+}
+
+.footer{
+  background-image: linear-gradient(to bottom right,black,gray);
+}
+.footer-text h3{
+  color: gray;
+
+}
+.fottericon{
+  color: gray;
+}
+.footericon-text h3{
+  color: gray;
+}
